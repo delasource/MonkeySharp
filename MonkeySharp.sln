@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonkeySharp.Example", "MonkeySharp.Example\MonkeySharp.Example.csproj", "{3159189F-F3A4-4CED-8395-168381D86020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonkeySharp", "MonkeySharp\MonkeySharp.csproj", "{3C881AE7-E69D-46A9-B8C6-936F8D0723D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3159189F-F3A4-4CED-8395-168381D86020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3159189F-F3A4-4CED-8395-168381D86020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3159189F-F3A4-4CED-8395-168381D86020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3159189F-F3A4-4CED-8395-168381D86020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C881AE7-E69D-46A9-B8C6-936F8D0723D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C881AE7-E69D-46A9-B8C6-936F8D0723D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C881AE7-E69D-46A9-B8C6-936F8D0723D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C881AE7-E69D-46A9-B8C6-936F8D0723D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
